@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9d69xMzXwZ4bNvIc/iAfR/B18xbcIHWJa2hdNbrz24Zwq/ZPY1CrzGmjcRXe4OFtSr258MVkf9NPJkN4djuAw==",
+  "success": true,
+  "projectFilePath": "/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android.iOS/tictactoe-android.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/value8/.nuget/packages/microsoft.azure.mobile.client/3.0.3/microsoft.azure.mobile.client.3.0.3.nupkg.sha512",
+    "/Users/value8/.nuget/packages/microsoft.azure.mobile.client.sqlitestore/3.0.3/microsoft.azure.mobile.client.sqlitestore.3.0.3.nupkg.sha512",
+    "/Users/value8/.nuget/packages/microsoft.bcl/1.1.10/microsoft.bcl.1.1.10.nupkg.sha512",
+    "/Users/value8/.nuget/packages/microsoft.bcl.build/1.0.21/microsoft.bcl.build.1.0.21.nupkg.sha512",
+    "/Users/value8/.nuget/packages/microsoft.net.http/2.2.29/microsoft.net.http.2.2.29.nupkg.sha512",
+    "/Users/value8/.nuget/packages/newtonsoft.json/6.0.4/newtonsoft.json.6.0.4.nupkg.sha512",
+    "/Users/value8/.nuget/packages/sqlitepclraw.bundle_green/1.0.0/sqlitepclraw.bundle_green.1.0.0.nupkg.sha512",
+    "/Users/value8/.nuget/packages/sqlitepclraw.core/1.0.0/sqlitepclraw.core.1.0.0.nupkg.sha512",
+    "/Users/value8/.nuget/packages/sqlitepclraw.provider.sqlite3.ios_unified/1.0.0/sqlitepclraw.provider.sqlite3.ios_unified.1.0.0.nupkg.sha512",
+    "/Users/value8/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/value8/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/value8/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

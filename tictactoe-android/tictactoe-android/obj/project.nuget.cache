@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vTkhyxgNGEgKZbME/64+6suMZ4GHpdbl+j9+rN+Ja2r/56yqU281s93I0E+WqFmcJce3588d1jioCbKhGLnCGQ==",
+  "success": true,
+  "projectFilePath": "/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/tictactoe-android.csproj",
+  "expectedPackageFiles": [
+    "/Users/value8/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/value8/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/value8/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/value8/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/value8/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

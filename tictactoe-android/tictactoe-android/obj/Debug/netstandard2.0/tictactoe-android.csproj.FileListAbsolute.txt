@@ -1,0 +1,17 @@
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/bin/Debug/netstandard2.0/tictactoe-android.deps.json
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/bin/Debug/netstandard2.0/tictactoe-android.dll
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/bin/Debug/netstandard2.0/ref/tictactoe-android.dll
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/bin/Debug/netstandard2.0/tictactoe-android.pdb
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/tictactoe-android.csproj.AssemblyReference.cache
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/tictactoe-android.GeneratedMSBuildEditorConfig.editorconfig
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/Multi_Player.xaml.g.cs
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/single_player.xaml.g.cs
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/tictactoe-android.AssemblyInfoInputs.cache
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/tictactoe-android.AssemblyInfo.cs
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/tictactoe-android.csproj.CoreCompileInputs.cache
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/tictactoe-android.dll
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/ref/tictactoe-android.dll
+/Users/value8/Projects/tictactoe-android/tictactoe-android/tictactoe-android/obj/Debug/netstandard2.0/tictactoe-android.pdb

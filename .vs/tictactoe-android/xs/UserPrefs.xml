@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{16E4E38E-8897-4703-8672-C452C2684F9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tictactoe-android/tictactoe-android/MainPage.xaml">
+    <Files>
+      <File FileName="tictactoe-android/tictactoe-android/MainPage.xaml" Line="25" Column="30" />
+      <File FileName="tictactoe-android/tictactoe-android/MinMax_algorithm.cs" />
+      <File FileName="tictactoe-android/tictactoe-android.Android/Properties/AssemblyInfo.cs" />
+      <File FileName="tictactoe-android/tictactoe-android.Android/Assets/AboutAssets.txt" />
+      <File FileName="tictactoe-android/tictactoe-android.Android/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tictactoe-android" expanded="True">
+            <Node name="tictactoe-android.Android" expanded="True">
+              <Node name="ConnectedServicesFolder" expanded="True" />
+              <Node name="References" expanded="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>tictactoe-android/tictactoe-android/tictactoe-android.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.tictactoe-android.Android PreferredExecutionTarget="Android.Pixel_4_API_31" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
