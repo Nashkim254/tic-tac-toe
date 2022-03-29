@@ -1,12 +1,5 @@
 ﻿<Properties StartupConfiguration="{16E4E38E-8897-4703-8672-C452C2684F9D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="tictactoe-android/tictactoe-android/MainPage.xaml">
-    <Files>
-      <File FileName="tictactoe-android/tictactoe-android/MainPage.xaml" Line="25" Column="30" />
-      <File FileName="tictactoe-android/tictactoe-android/MinMax_algorithm.cs" />
-      <File FileName="tictactoe-android/tictactoe-android.Android/Properties/AssemblyInfo.cs" />
-      <File FileName="tictactoe-android/tictactoe-android.Android/Assets/AboutAssets.txt" />
-      <File FileName="tictactoe-android/tictactoe-android.Android/Properties/AndroidManifest.xml" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -24,6 +17,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tictactoe-android.iOS PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>tictactoe-android/tictactoe-android/tictactoe-android.csproj</String>
