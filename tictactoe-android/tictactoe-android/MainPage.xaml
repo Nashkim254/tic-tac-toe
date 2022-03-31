@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<ContentPage.Padding xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="tictactoe_android.MainPage">
-
-    <StackLayout x:Name="Menu_Page" Spacing="100">
+   <OnPlatform x:TypeArguments="Thickness" iOS="0, 20, 0, 0" WinPhone="20,20,20,20" />
+    <StackLayout x:Name="Menu_Page" Spacing="200">
+     <StackLayout BackgroundColor="#2196F3">
+            <Label Text="Tic Tac Toe" HorizontalTextAlignment="Right" TextColor="White" FontSize="18"/>
+        </StackLayout>
         <StackLayout BackgroundColor="#2196F3">
-            <Label Text="Tic Tac Toe" HorizontalTextAlignment="Center" TextColor="White" FontSize="35"/>
+            <Label Text="Tic Tac Toe" HorizontalTextAlignment="Right" TextColor="White" FontSize="18"/>
         </StackLayout>
         
         <StackLayout BackgroundColor="Transparent">
@@ -30,4 +33,4 @@
 
     </StackLayout>
 
-</ContentPage>
+</ContentPage.Padding>

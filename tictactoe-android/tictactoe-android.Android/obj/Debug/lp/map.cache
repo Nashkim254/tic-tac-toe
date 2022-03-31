@@ -1,4 +1,9 @@
 FormsViewGroup.dll
+Microsoft.WindowsAzure.Mobile.Ext.dll
+SQLitePCLRaw.batteries_green.dll
+SQLitePCLRaw.core.dll
+SQLitePCLRaw.lib.e_sqlite3.dll
+SQLitePCLRaw.provider.e_sqlite3.dll
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Annotation.dll
 Xamarin.AndroidX.Annotation.Experimental.dll

@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{16E4E38E-8897-4703-8672-C452C2684F9D}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{85B5680F-6C6D-4B6F-970D-7486F7F1B890}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tictactoe-android/tictactoe-android/MinMax_algorithm.cs">
+    <Files>
+      <File FileName="tictactoe-android/tictactoe-android/MinMax_algorithm.cs" Line="8" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="tictactoe-android" expanded="True">
             <Node name="tictactoe-android.Android" expanded="True">
-              <Node name="ConnectedServicesFolder" expanded="True" />
-              <Node name="References" expanded="True" />
-              <Node name="Assets" expanded="True" />
               <Node name="Properties" expanded="True">
                 <Node name="AndroidManifest.xml" selected="True" />
               </Node>
@@ -17,12 +17,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.tictactoe-android.iOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.tictactoe-android.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.39928887-4D9A-4D83-BD5D-F96280D4B0DB" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>tictactoe-android/tictactoe-android/tictactoe-android.csproj</String>
   </DisabledProjects>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.ItemProperties.tictactoe-android.Android PreferredExecutionTarget="Android.Pixel_4_API_31" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
